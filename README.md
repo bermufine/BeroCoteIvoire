@@ -13,10 +13,10 @@
           "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
           "titleCi": "RTI 1"
         },
-        {
+         {
           "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sourceCi": [
-            "https://amigofx.com:1936/championtv/championtv/playlist.m3u8"
+            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8"
           ],
           "subtitleCi": "By Channel",
           "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
@@ -39,15 +39,6 @@
           "subtitleCi": "By Channel",
           "thumbCi": "https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg",
           "titleCi": "CHRIST TV"
-        },
-         {
-          "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
-          "sourceCi": [
-            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "titleCi": "CHAMPION TV LIEN 2"
         },
         {
           "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
@@ -300,4 +291,13 @@
           "subtitleCi": "By Channel",
           "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
           "titleCi": "RTI 2"
+        },
+        {
+          "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
+          "sourceCi": [
+            "https://amigofx.com:1936/championtv/championtv/playlist.m3u8"
+          ],
+          "subtitleCi": "By Channel",
+          "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "titleCi": "CHAMPION TV"
         },
