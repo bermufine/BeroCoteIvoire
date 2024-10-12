@@ -4,6 +4,15 @@
     {
       "name": "Movies",
       "videos": [
+         {
+          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"
+          ],
+          "subtitleCi": "By Channel",
+          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
+          "titleCi": "RTI 1"
+        },
         {
           "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sourceCi": [
@@ -12,15 +21,6 @@
           "subtitleCi": "By Channel",
           "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "titleCi": "CHAMPION TV"
-        },
-        {
-          "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
-          "sourceCi": [
-            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3v4"
-          ],
-          "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "titleCi": "CHAMPION TV LIEN 2"
         },
         {
           "descriptionCi": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....",
@@ -40,23 +40,14 @@
           "thumbCi": "https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg",
           "titleCi": "CHRIST TV"
         },
-        {
-          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+         {
+          "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sourceCi": [
-            "https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"
+            "https://helga.iptv2022.com/sh/Champion_tv/tracks-v1a1/mono.m3u8"
           ],
           "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
-          "titleCi": "RTI 1"
-        },
-        {
-          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "http://69.64.57.208/rti1/index.m3u8"
-          ],
-          "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
-          "titleCi": "RTI 1 / LIEN 2"
+          "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "titleCi": "CHAMPION TV LIEN 2"
         },
         {
           "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
@@ -75,6 +66,15 @@
           "subtitleCi": "By Channel",
           "thumbCi": "https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg",
           "titleCi": "INTELLIGENT TV"
+        },
+         {
+          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
+          ],
+          "subtitleCi": "By Channel",
+          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
+          "titleCi": "RTI 2"
         },
         {
           "descriptionCi": "A12 TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
@@ -248,24 +248,6 @@
           "titleCi": "RTVC TV"
         },
         {
-          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
-          ],
-          "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
-          "titleCi": "RTI 2"
-        },
-        {
-          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "http://69.64.57.208/rti2/index.m3u8"
-          ],
-          "subtitleCi": "By Channel",
-          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
-          "titleCi": "RTI 2"
-        },
-        {
           "descriptionCi": "Batir TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
             "https://webstreaming.viewmedia.tv/web_021/Stream/playlist.m3u8"
@@ -296,3 +278,26 @@
     }
   ]
 }
+
+
+
+
+
+ {
+          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "http://69.64.57.208/rti1/index.m3u8"
+          ],
+          "subtitleCi": "By Channel",
+          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
+          "titleCi": "RTI 1 / LIEN 2"
+        },
+         {
+          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "http://69.64.57.208/rti2/index.m3u8"
+          ],
+          "subtitleCi": "By Channel",
+          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
+          "titleCi": "RTI 2"
+        },
