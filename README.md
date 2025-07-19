@@ -27,7 +27,7 @@
           {
           "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
-            "http://69.64.57.208/rti1/playlist.m3u8"
+            "http://69.64.57.208/rti2/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
            "numberCi": "391",
