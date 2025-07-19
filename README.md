@@ -10,6 +10,7 @@
             "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
           ],
           "subtitleCi": "All Channels",
+          "numberCi": "389",
           "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "titleCi": "CHAMPION TV"
         },
@@ -19,6 +20,7 @@
             "http://69.64.57.208/rti1/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "390",
           "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
           "titleCi": "RTI 1"
         },
@@ -28,6 +30,7 @@
             "http://69.64.57.208/rti1/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "391",
           "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
           "titleCi": "RTI 2"
         },
@@ -37,6 +40,7 @@
             "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
           ],
           "subtitleCi": "All Channels",
+           "numberCi": "392",
           "thumbCi": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
           "titleCi": "TV LA CAPITALE"
         },
@@ -46,6 +50,7 @@
             "http://69.64.57.208/la3/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "393",
           "thumbCi": "https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png",
           "titleCi": "LA 3"
         },
@@ -55,6 +60,7 @@
             "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "394",
           "thumbCi": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
           "titleCi": "EXPLOITS TV"
         },
@@ -64,6 +70,7 @@
             "https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "395",
           "thumbCi": "https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg",
           "titleCi": "INTELLIGENT TV"
         },
@@ -73,6 +80,7 @@
             "https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "396",
           "thumbCi": "https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg",
           "titleCi": "A12 TV"
         },
@@ -82,6 +90,7 @@
             "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "397",
           "thumbCi": "https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png",
           "titleCi": "IVOIRE TV"
         },
@@ -91,6 +100,7 @@
             "https://strfla209.streamakaci.tv:443/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv360p/chunks.m3u8"
           ],
           "subtitleCi": "All Channel",
+           "numberCi": "398",
           "thumbCi": "https://od.lk/s/M18yODY5NTM2ODVf/ntv.jpg",
           "titleCi": "NTV"
         },
@@ -100,6 +110,7 @@
             "http://69.64.57.208/atv/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "399",
           "thumbCi": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
           "titleCi": "A+ IVOIRE TV"
         },
@@ -109,6 +120,7 @@
             "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "400",
           "thumbCi": "https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg",
           "titleCi": "ECCLESIA TV / LIEN 2"
         },
@@ -118,6 +130,7 @@
             "https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "401",
           "thumbCi": "https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg",
           "titleCi": "GUIDE LOVE TV"
         },
@@ -127,6 +140,7 @@
             "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "402",
           "thumbCi": "https://od.lk/s/M18yOTA2ODE2NzJf/miracleabidjan.png",
           "titleCi": "MIRACLE TV"
         },
@@ -136,6 +150,7 @@
             "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "403",
           "thumbCi": "https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png",
           "titleCi": "REFLET TV"
         },
@@ -145,6 +160,7 @@
             "http://69.64.57.208/albayanetv/index.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "404",
           "thumbCi": "https://od.lk/s/M18zMDM4NzQ5ODRf/albayane.jpg",
           "titleCi": "ALBAYANE TV"
         },
@@ -154,6 +170,7 @@
             "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "405",
           "thumbCi": "https://od.lk/s/M18zMDM4NzQ5NDJf/divineAmour.png",
           "titleCi": "DIVINE AMOUR"
         },
@@ -163,6 +180,7 @@
             "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "406",
           "thumbCi": "https://od.lk/s/M18zMDM4NzQ5MjFf/lmtv.jpg",
           "titleCi": "LMTV"
         },
@@ -172,6 +190,7 @@
             "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "407",
           "thumbCi": "https://od.lk/s/M18zMDM4NzQ3NDZf/rtvc.png",
           "titleCi": "RTVC TV"
         },
@@ -181,6 +200,7 @@
             "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8"
           ],
           "subtitleCi": "All Channel",
+          "numberCi": "408",
           "thumbCi": "https://od.lk/s/M18zMDM4NzU0MzNf/novelas.jpeg",
           "titleCi": "NOVELAS CHANNEL"
         }
