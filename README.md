@@ -4,16 +4,7 @@
     {
       "name": "Movies",
       "videos": [
-         {
-          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"
-          ],
-          "subtitleCi": "All Channel",
-          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
-          "titleCi": "RTI 1"
-        },
-         {
+           {
           "descriptionCi": "𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus",
           "sourceCi": [
             "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
@@ -21,6 +12,24 @@
           "subtitleCi": "All Channels",
           "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "titleCi": "CHAMPION TV"
+        },
+         {
+          "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "http://69.64.57.208/rti1/playlist.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+          "thumbCi": "https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg",
+          "titleCi": "RTI 1"
+        },
+          {
+          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "http://69.64.57.208/rti1/playlist.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
+          "titleCi": "RTI 2"
         },
         {
           "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
@@ -30,15 +39,6 @@
           "subtitleCi": "All Channels",
           "thumbCi": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
           "titleCi": "TV LA CAPITALE"
-        },
-        {
-          "descriptionCi": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....",
-          "sourceCi": [
-            "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8"
-          ],
-          "subtitleCi": "All Channels",
-          "thumbCi": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
-          "titleCi": "AYA TV"
         },
         {
           "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
@@ -67,24 +67,6 @@
           "thumbCi": "https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg",
           "titleCi": "INTELLIGENT TV"
         },
-         {
-          "descriptionCi": "ECLAT DE GLOIRE TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://stream.berosat.live:19360/eclat-gloire-stream/eclat-gloire-stream.m3u8"
-          ],
-          "subtitleCi": "All Channel",
-          "thumbCi": "https://od.lk/s/NDZfNzkzNDY5MzZf/EclatdeGloire.jpg",
-          "titleCi": "ECLAT DE GLOIRE TV"
-        },
-         {
-          "descriptionCi": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
-          ],
-          "subtitleCi": "All Channel",
-          "thumbCi": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
-          "titleCi": "RTI 2"
-        },
         {
           "descriptionCi": "A12 TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
@@ -93,15 +75,6 @@
           "subtitleCi": "All Channel",
           "thumbCi": "https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg",
           "titleCi": "A12 TV"
-        },
-         {
-          "descriptionCi": "GLORY CHANNEL TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"
-          ],
-          "subtitleCi": "All Channel",
-          "thumbCi": "https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg",
-          "titleCi": "GLORY CHANNEL TV"
         },
         {
           "descriptionCi": "Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....",
@@ -229,6 +202,33 @@
           "thumbCi": "https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg",
           "titleCi": "CHRIST TV"
         },
+          {
+          "descriptionCi": "GLORY CHANNEL TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/glory-channel/glory-channel.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+          "thumbCi": "https://od.lk/s/NDZfNzYzODExNDVf/GloryChannel.jpg",
+          "titleCi": "GLORY CHANNEL TV"
+        },
+                {
+          "descriptionCi": "ECLAT DE GLOIRE TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/eclat-gloire-stream/eclat-gloire-stream.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+          "thumbCi": "https://od.lk/s/NDZfNzkzNDY5MzZf/EclatdeGloire.jpg",
+          "titleCi": "ECLAT DE GLOIRE TV"
+        },
+         {
+          "descriptionCi": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/gmc-tv/gmc-tv.m3u8"
+          ],
+          "subtitleCi": "All Channels",
+          "thumbCi": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
+          "titleCi": "AYA TV"
+        },
          {
           "descriptionCi": "Batir TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
@@ -337,3 +337,4 @@
           "thumbCi": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "titleCi": "CHAMPION TV"
         },
+        https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
