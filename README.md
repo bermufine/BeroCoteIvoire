@@ -15,6 +15,16 @@
           "titleCi": "CHAMPION TV"
         },
          {
+          "descriptionCi": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitleCi": "All Channels",
+           "numberCi": "393",
+          "thumbCi": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "titleCi": "JSN TV"
+        },
+         {
           "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
             "http://69.64.57.208/rti1/playlist.m3u8"
@@ -45,16 +55,16 @@
           "titleCi": "TV LA CAPITALE"
         },
         {
-          "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "descriptionCi": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations. Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé. À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
           "sourceCi": [
-            "http://69.64.57.208/la3/playlist.m3u8"
+            "https://stream.berosat.live:19360/onmci-tv/onmci-tv.m3u8"
           ],
-          "subtitleCi": "All Channel",
-           "numberCi": "393",
-          "thumbCi": "https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png",
-          "titleCi": "LA 3"
+          "subtitleCi": "All Channels",
+           "numberCi": "452",
+          "thumbCi": "https://od.lk/s/NDZfODU5ODM5MDVf/onmceitv.jpg",
+          "titleCi": "ONMCI TV"
         },
-        {
+         {
           "descriptionCi": "EXPLOITS TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....",
           "sourceCi": [
             "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
@@ -63,6 +73,26 @@
            "numberCi": "394",
           "thumbCi": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
           "titleCi": "EXPLOITS TV"
+        },
+        {
+          "descriptionCi": "P'Africa est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....+225 0788422056/0596455112.  www.pafricatvinfo.com",
+          "sourceCi": [
+            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
+          ],
+          "subtitleCi": "All Channels",
+           "numberCi": "792",
+          "thumbCi": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
+          "titleCi": "P'AFRICA TV"
+        },
+        {
+          "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "http://69.64.57.208/la3/playlist.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+           "numberCi": "393",
+          "thumbCi": "https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png",
+          "titleCi": "LA 3"
         },
         {
           "descriptionCi": "Intelligent TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
