@@ -52,7 +52,7 @@
           "subtitleCi": "All Channel",
            "numberCi": "137",
           "thumbCi": "https://od.lk/s/NDZfOTE5NDM1OTdf/yeshouatv.jpg",
-          "titleCi": "YOSHOUA TV"
+          "titleCi": "YESHOUA TV"
         },
          {
           "descriptionCi": "Source inter tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.....",
