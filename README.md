@@ -24,6 +24,46 @@
           "thumbCi": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
           "titleCi": "JSN TV"
         },
+          {
+          "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
+          ],
+          "subtitleCi": "All Channels",
+           "numberCi": "392",
+          "thumbCi": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
+          "titleCi": "TV LA CAPITALE"
+        },
+         {
+          "descriptionCi": "EXPLOITS TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....",
+          "sourceCi": [
+            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+           "numberCi": "394",
+          "thumbCi": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "titleCi": "EXPLOITS TV"
+        },
+        {
+          "descriptionCi": "Yeshoua Tv :, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
+          "sourceCi": [
+            "https://neriyastreaming.ddns.net/memfs/72d07006-7c26-411e-b192-4b425e2f0366.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+           "numberCi": "137",
+          "thumbCi": "https://od.lk/s/NDZfOTE5NDM1OTdf/yeshouatv.jpg",
+          "titleCi": "YOSHOUA TV"
+        },
+         {
+          "descriptionCi": "Source inter tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.....",
+          "sourceCi": [
+            "https://neriyastreaming.ddns.net/memfs/23605fb9-22e5-4370-9cd5-06f5c9306379.m3u8"
+          ],
+          "subtitleCi": "All Channel",
+           "numberCi": "137",
+          "thumbCi": "https://od.lk/s/NDZfOTE5NDM1OTVf/sourcetv.jpg",
+          "titleCi": "SOURCE INTER TV"
+        },
          {
           "descriptionCi": "RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceCi": [
@@ -45,16 +85,6 @@
           "titleCi": "RTI 2"
         },
         {
-          "descriptionCi": "LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceCi": [
-            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
-          ],
-          "subtitleCi": "All Channels",
-           "numberCi": "392",
-          "thumbCi": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
-          "titleCi": "TV LA CAPITALE"
-        },
-        {
           "descriptionCi": "ONMCI TV est la chaîne officielle de l’Ordre National des Médecins de Côte d’Ivoire (ONMCI), entièrement dédiée à la santé et au bien-être des populations. Notre mission est d’informer, sensibiliser et éduquer sur les enjeux de santé publique, les bonnes pratiques médicales, les innovations du secteur, ainsi que les actions de l’Ordre et des professionnels de santé. À travers des émissions spécialisées, des interviews, des reportages terrain, des conseils pratiques et des débats, ONMCI TV devient une plateforme d’échange entre les médecins, les institutions, et les citoyens. Accessible à tous, ONMCI TV est un pont entre le monde médical et le grand public, avec un seul objectif : contribuer à une société mieux informée, en meilleure santé.",
           "sourceCi": [
             "https://stream.berosat.live:19360/onmci-tv/onmci-tv.m3u8"
@@ -63,16 +93,6 @@
            "numberCi": "452",
           "thumbCi": "https://od.lk/s/NDZfODU5ODM5MDVf/onmceitv.jpg",
           "titleCi": "ONMCI TV"
-        },
-         {
-          "descriptionCi": "EXPLOITS TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....",
-          "sourceCi": [
-            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
-          ],
-          "subtitleCi": "All Channel",
-           "numberCi": "394",
-          "thumbCi": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
-          "titleCi": "EXPLOITS TV"
         },
         {
           "descriptionCi": "P'Africa est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....+225 0788422056/0596455112.  www.pafricatvinfo.com",
